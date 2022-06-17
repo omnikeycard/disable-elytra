@@ -9,10 +9,10 @@ Configuration / Конфигурация:
 
 # Принцип работы плагина:
 1. Когда игрок попытается взлететь с элитрами в слоте нагрудника (нажав на пробел), то плагин просто очистит слот нагрудника, тем самым удалив элитры.
-2. Перед срабатыванием плагина игрок может успеть пропарить около половины секунды (также зависит от загруженности сервера)
+2. Перед срабатыванием плагина игрок может успеть пропарить около 100 миллисекунд (также зависит от загруженности сервера)
 3. Если это то, что вам надо, то можете использовать данный плагин. Иначе - вы можете написать в раздел обсуждения с просьбой о внесении дополнений.
 
 # How the plugin works:
 1. When a player tries to take off with the elytra in the chestplate slot (by pressing the space bar), the plugin will clear the chestplate slot, thereby removing the elytra.
-2. Before the plugin is triggered, the player can have time to soar for about half a second (also depends on the server load)
+2. Before the plugin is triggered, the player can have time to soar for about 100 milliseconds (also depends on the server load)
 3. If this is what you need, then you can use this plugin. Otherwise, you can write to the discussion section with a request for additions.
