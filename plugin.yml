@@ -1,0 +1,5 @@
+name: DisableElytra
+version: 1.0
+author: omni_keycard
+main: disableElytra.Plugin
+description: A very simple plugin that allows you to prohibit players from using elytra
