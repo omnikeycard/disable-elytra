@@ -12,10 +12,9 @@ public class EventsListener implements Listener {
 	@EventHandler
 	public void OnElytraFly(EntityToggleGlideEvent e) {
 		Player player = (Player) e.getEntity();
-		if(player.hasPermission("disableElytra.notallowed")) {
-			player.getInventory().setChestplate(null);
-			player.sendMessage(message);
-		}
+		e.setCancelled(true);
+		player.getInventory().setChestplate(null);
+		player.sendMessage(message);
 	}
 	
 }
