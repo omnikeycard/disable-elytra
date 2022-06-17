@@ -1,8 +1,8 @@
 # Disable Elytra
 Allows you to prohibit players from using elytra / Очень простой плагин, позволяющий запретить игрокам использование элитр
 
-**IMPORTANT**: To begin with, you need to issue a «disableElytra.notallowed» permission to prohibit a certain group of players from using elytra
-**ВАЖНО**: Для начала, вам нужно выдать разрешение «disableElytra.notallowed», чтобы запретить определенной группе игроков использование элитр
+**IMPORTANT**: To begin with, you need to issue a «`disableElytra.notallowed`» permission to prohibit a certain group of players from using elytra
+**ВАЖНО**: Для начала, вам нужно выдать разрешение «`disableElytra.notallowed`», чтобы запретить определенной группе игроков использование элитр
 
 Configuration / Конфигурация:
 `message: §cElytra on this server are not allowed # Message, that will send to the player when he try to fly up with elytra`
